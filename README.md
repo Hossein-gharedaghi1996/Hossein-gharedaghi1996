@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Hossein-gharedaghi1996/Hossein-gharedaghi1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m [Hossein Gharedaghi] 👋  
+- 🌱 I’m currently learning: [Python]  
+- 💻 I’m working on: [Neuroimaging projects]  
+- 📫 How to reach me: [Hosseingaredaghi@gmail.com]  
+- 😄 Fun fact: [I am medical doctor but love coding more than patients]  
 
-Here are some ideas to get you started:
+## My Skills
+- Programming Languages: `Python`, 'R'.
+- Tools: `Git`, `API`, 'Mysql', 'Qt Designer'.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseingh1996&show_icons=true)
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hosseingh1996)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/hossein-gharedaghi-ab9188227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+
