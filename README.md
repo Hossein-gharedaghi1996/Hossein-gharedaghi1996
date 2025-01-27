@@ -11,7 +11,7 @@ Hi, I’m [Hossein Gharedaghi] 👋
 - Tools: `Git`, `API`, 'Mysql', 'Qt Designer'.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseingh1996&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossein-gharedaghi1996&show_icons=true)
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hosseingh1996)
